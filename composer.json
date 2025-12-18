@@ -1,0 +1,13 @@
+{
+    "name": "extra/render-php-app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mehdi"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.15",
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
